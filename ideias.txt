@@ -1,0 +1,11 @@
+linhas que tem linha():
+84//antes de jogar, 1 linha só
+96//quanto acaba o loop
+101 e 103//titulo // em cima e embaixo
+104 /// titulo - em cima e embaixo
+
+
+
+
+
+68 // titulo (em cima e embaixo) // 1 vez só
